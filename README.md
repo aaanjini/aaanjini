@@ -1,6 +1,8 @@
-<p>안녕하세요 프론트엔드 개발자 안진희입니다 ☺️</p>
 
 
+<p>✨안녕하세요 프론트엔드 개발자 안진희입니다 ☺️✨</p>
+
+<hr/>
 
 <h3>Skill🌈</h3>
 <p><b>Platforms & Languages</b></p>
@@ -15,23 +17,6 @@
 <p><i>Don’t repeat yourself Keep It Simple, Stupid. You Ain't Gonna Need It</i></p>
 
 
-<img src=""/>
 
 
 
-
-
-<!--
-**aaanjini/aaanjini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
