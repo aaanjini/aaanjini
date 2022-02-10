@@ -4,7 +4,9 @@
 
 <hr/>
 
-<h3>Skill🌈</h3>
+<h3>Skill💪</h3>
+
+
 <p><b>Platforms & Languages</b></p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
