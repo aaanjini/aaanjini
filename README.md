@@ -1,14 +1,15 @@
 <p>안녕하세요 프론트엔드 개발자 안진희입니다 ☺️</p>
-<i>Don’t repeat yourself</i>
-<i>Keep It Simple, Stupid.</i>
-<i>You Ain't Gonna Need It</i>
+
+<p><i>Don’t repeat yourself</i></p>
+<p><i>Keep It Simple, Stupid.</i></p>
+<p><i>You Ain't Gonna Need It</i></p>
 
 <h3>Skill🌈</h3>
-<b>Platforms & Languages</b>
+<p><b>Platforms & Languages</b></p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 
-<b>Tools</b>
+<p><b>Tools</b></p>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
