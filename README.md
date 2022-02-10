@@ -13,8 +13,7 @@
 
 <p><b>Tools</b></p>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="display:inline-block"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" style="display:inline-block"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="display:inline-block"/>
 
 
 <p><i>Don’t repeat yourself Keep It Simple, Stupid. You Ain't Gonna Need It</i></p>
