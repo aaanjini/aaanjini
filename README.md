@@ -1,7 +1,7 @@
 <p>안녕하세요 프론트엔드 개발자 안진희입니다 ☺️</p>
-<i>Don’t repeat yourself\n
-Keep It Simple, Stupid.\n
-You Ain't Gonna Need It</i>
+<i>Don’t repeat yourself</i>
+<i>Keep It Simple, Stupid.</i>
+<i>You Ain't Gonna Need It</i>
 
 <h3>Skill🌈</h3>
 <p>Platforms & Languages</p>
