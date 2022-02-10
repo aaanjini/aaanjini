@@ -1,5 +1,9 @@
+<p>안녕하세요 프론트엔드 개발자 안진희입니다 ☺️</p>
+<i>Don’t repeat yourself\n
+Keep It Simple, Stupid.\n
+You Ain't Gonna Need It</i>
 
-<h1>Skill🌈</h1>
+<h3>Skill🌈</h3>
 <p>Platforms & Languages</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
