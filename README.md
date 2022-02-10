@@ -4,11 +4,11 @@
 <i>You Ain't Gonna Need It</i>
 
 <h3>Skill🌈</h3>
-<p>Platforms & Languages</p>
+<b>Platforms & Languages</b>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 
-<p>Tools</p>
+<b>Tools</b>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
