@@ -1,8 +1,6 @@
 <p>안녕하세요 프론트엔드 개발자 안진희입니다 ☺️</p>
 
-<p><i>Don’t repeat yourself</i></p>
-<p><i>Keep It Simple, Stupid.</i></p>
-<p><i>You Ain't Gonna Need It</i></p>
+
 
 <h3>Skill🌈</h3>
 <p><b>Platforms & Languages</b></p>
@@ -14,7 +12,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 
+<p><i>Don’t repeat yourself Keep It Simple, Stupid. You Ain't Gonna Need It</i></p>
 
+
+<img src=""/>
 
 
 
