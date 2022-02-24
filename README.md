@@ -8,6 +8,7 @@
 
 
 <p><b>Platforms & Languages</b></p>
+
 <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="display:inline-block"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" style="display:inline-block"/>
 
 
