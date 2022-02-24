@@ -4,7 +4,7 @@
 
 <hr/>
 
-<div style="text-align:center">
+<div style="text-align: center">
 
   <h3>Skill💪</h3>
 
