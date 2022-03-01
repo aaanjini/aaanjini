@@ -21,6 +21,9 @@
 
 </div>
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zini6633>
+
+
 <p><i>Don’t repeat yourself Keep It Simple, Stupid. You Ain't Gonna Need It</i></p>
 
 
