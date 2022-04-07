@@ -6,7 +6,7 @@
 
 <div style="text-align: center">
 
-  <h3>Skill💪</h3>
+  <h2>Skill💪</h2>
 
 
   <p><b>Platforms & Languages</b></p>
