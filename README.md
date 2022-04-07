@@ -2,6 +2,10 @@
 
 <p>✨안녕하세요 프론트엔드 개발자를 꿈꾸는 안진희입니다 ☺️✨</p>
 
+# About Me
+<a harf="https://anggom.notion.site/JINI-Cool-and-Fun-f556431bd9e34d68b86a06a22d2a3f4a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="display:inline-block"/></a>
+
+
 <hr/>
 
 <div style="text-align: center">
