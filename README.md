@@ -1,6 +1,6 @@
 
 
-<p>✨안녕하세요 프론트엔드 개발자 안진희입니다 ☺️✨</p>
+<p>✨안녕하세요 유쾌하고 멋진 프론트엔드 개발자 안진희입니다 ☺️✨</p>
 
 ## About Me 👻
 > <p><i>Don’t repeat yourself Keep It Simple, Stupid. You Ain't Gonna Need It</i></p>
